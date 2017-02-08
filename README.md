@@ -8,7 +8,12 @@ second round of edits
 third round of edits
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Want to put this in and then see if I can revert directly in master (not test branch)
+=======
+
+Want to check for pull request
+>>>>>>> parent of 18486f3... need to revert after
 
 
 =======
