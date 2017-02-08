@@ -8,9 +8,10 @@ second round of edits
 third round of edits
 
 
-checking to see how can generate pull request after commit
+feb 8th - adding this comment as want to check when back out this commit
 
-Edited the readme as want to check how to generate a pull request before its copied directly to the remote origin
+Want to check for pull request
+
 
 On 21st December added a new working branch via github, which populated to my local machine and now editing this readme in the new testbranch working directory from my mahcine
 
