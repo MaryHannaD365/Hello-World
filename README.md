@@ -8,8 +8,6 @@ second round of edits
 third round of edits
 
 
-feb 8th - adding this comment as want to check when back out this commit
-
 Want to check for pull request
 
 
